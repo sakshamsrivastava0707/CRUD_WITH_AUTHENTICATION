@@ -1,7 +1,8 @@
 # CRUD_WITH_AUTHENTICATION
 SIMPLE CRUD API USING AUTHENTICATION TO CREATE, UPDATE ,DELETE AND READ THE USER WITH NAME, EMAIL, PASSWORD
 
-## use Postman to to test it . clone the project using npm install
+## use Postman to to test it . 
+## clone the project and Run Npm start to start the project
 
 header: content-type , value: application/json
 ## TO REGISTER A USER (PUBLIC ROUTE)
